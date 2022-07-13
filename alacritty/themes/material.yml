@@ -1,0 +1,21 @@
+colors:
+  primary:
+    background: '#1b1b1f'
+    foreground: '0xc5c9de'
+font:
+  bold:
+    family: Agave Nerd Font
+  italic:
+    family: Agave Nerd Font
+  normal:
+    family: Agave Nerd Font
+    style: Regular
+  size: 14
+scrolling:
+  history: 10000
+  multiplier: 3
+window:
+  opacity: 0.85
+  padding:
+    x: 20
+    y: 15

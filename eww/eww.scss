@@ -1,0 +1,45 @@
+* {
+    all: unset;
+}
+.power-text-box {
+    background-color: #1a1b26;
+}
+
+.power-text {
+    color: #7aa2f7;
+    background-color: #1a1b26;
+    margin-top: 20;
+    font-size: 32;
+    font-family: 'Agave Nerd Font';
+}
+
+.box-shutdown{
+    margin: 5px 20px 20px 20px;
+    background-color: #1a1b26;
+}
+
+.shutdown {
+    background-color: #1a1b26;
+    color: #f7768e;
+    margin: 20px 10px 20px 10px;
+    font-size: 120;
+}
+
+.reboot {
+    color: #9ece6a;
+    background-color: #1a1b26;
+    margin: 20px 10px 20px 10px;
+    font-size: 120;
+}
+
+.logout {
+    color: #ad8ee6;
+    background-color: #1a1b26;
+    margin: 20px 10px 20px 10px;
+    font-size: 120;
+}
+
+button:hover {
+    border-radius: 6px;
+    color:  white;
+}
