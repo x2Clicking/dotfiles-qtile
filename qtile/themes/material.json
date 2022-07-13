@@ -1,0 +1,33 @@
+{
+    "bar" : {
+        "groupbox" : {
+            "background" : "#1b1b1f",
+            "active" : "#f1ffff",
+            "inactive" : "#f1ffff",
+            "line_active" : "#FF9B54",
+            "this_current_screen_border": "#FF9B54",
+            "this_screen_border" : "#1b1b1f",
+            "line_hilight_color": "#1b1b1f",
+            "other_screen_border": "#1b1b1f"
+        }
+    },
+
+    "screens" : {
+        "border" : {
+            "focus" : "#FF9B54",
+            "normal" : "#1b1b1f"
+        }
+    },
+
+    "widgets" : {
+        "background" : "#1b1b1f",
+        "foreground" : "#FF9B54",
+        "font-color" : "#1b1b1f",
+        "colors" : {
+            "one" : "#CE4257",
+            "two" : "#F06449",
+            "three" : "#FF7F51",
+            "four" : "#FF9B54"
+        }
+    }
+}
